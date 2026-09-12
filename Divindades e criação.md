@@ -1,0 +1,9 @@
+# Divindades
+Desde a eternidade pré-criação existiam no vazio os Imaginativos e os Executores.
+Os Imaginativos são chamados de deuses pelas criaturas de Sola. Eles são seres criativos que idealizaram tudo que existe. Os Executores são conhecidos como semi-deuses. Cada espécie de Executor segue as ordem dos Imaginativos que escolheu representar. Eles construiram tudo que há pela visão apresentada por seus Imaginativos e poderes combinados, próprios e emprestados.
+Os Imaginativos perceberam que suas ideias se dividiam em duas classes: luz ou trevas. Logo criou-se uma divisão entre <mark class="hl-blue">Imaginativos iluminados</mark> (criadores da maioria das coisas consideradas boas) e <mark class="hl-red">Imaginativos sombrios</mark> (criadores da maioria das coisas consideradas ruins).
+Todos os Imaginativos escolheram seu lado, mas todos perceberam que o <mark class="hl-purple">Caos</mark> fugia da classificação criada. Ele não pende nem para um lado, nem para o outro.
+
+# Criação
+Durante a criação, o <mark class="hl-purple">Caos</mark> foi eleito juíz para aprovar tudo que seria formado, assim, a criação seria equilibrada. Se <mark class="hl-blue">Vita</mark> sugeriu a geração de vida, <mark class="hl-red">Mors</mark> sugeriu que houvesse morte e ambas ideias foram aceitas. <mark class="hl-blue">Malum</mark> pediu que houvesse maldade para que toda criatura pudesse aprender com seus erros e ter a possibilidade de escolher praticar o mal. <mark class="hl-red">Natio</mark> sugeriu a determinação, para que uma criatura determinada a fazer o mal nunca se desvie de sua ambição, até o ponto de não enxergar mais retorno. <mark class="hl-red">Morbus</mark> inventou as doenças e <mark class="hl-blue">Taur</mark> pediu que houvesse cura. 
+Não havia preocupação em contar a passagem do tempo, por isso não sabemos quantos séculos durou o julgamento da criação.
