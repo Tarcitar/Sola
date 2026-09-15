@@ -1,7 +1,7 @@
 # Continentes
 
 ## Envain
-O continente foi nomeado após o explorador anão chamado [[Dain]], responsável por encontrar os materiais da região e formar os primeiros assentamentos.
+O continente foi nomeado após o explorador anão chamado Dain, responsável por encontrar os materiais da região e formar os primeiros assentamentos.
 
 ## Magna
 O maior continente foi nomeado com uma antiga palavra que torna explícito sua grandesa.
