@@ -1,12 +1,16 @@
 # Pasnata
 ## Descrição geral
-**Tamanho:** Cidadela
-**População:** 7450
-**Limite individual em PO:** 8000
+**Tamanho:** Cidadela 
+
+**População:** 7450 
+
+**Limite individual em PO:** 8000 
+
 O assentamento possui 29.800.000 PO dividido entre toda a população.
 
 **Primeiras impressões:**
 A Cidadela murada e seus guardas recepcionam com confiança os visitantes, como quem guarda um oásis em meio ao semiárido seco, mas ao adentrar as muralhas, qual dos três portões você escolheu para conhecer o assentamento influenciam muito as primeiras impressões. O comercio se concentra no lado leste, sendo audível de longe. Alí você encontrará qualquer tipo de atendimento necessário, poderá vender ou comprar o que Magna proporcionar. O comércio de animais é típico aos moradores, mas a lista de possibilidades é longa e passa por muitos nichos. O chão de terra batida revela pouco interesse dos governantes em investimento público.
+
 ???
 
 ## Defesa
@@ -30,15 +34,14 @@ pie title Moradores
     "Elfos" : 1300
 	"Halflings" : 600
 	"Meio-elfos" : 200
-	"Meio-orcs" : 50
-	"Orcs" : 50
-	"Goblins" : 40
-	"Aarakocras" : 10
+	"Outros" : 150
 ```
+*Outros: Meio-orcs, Orcs, Goblins e Aarakocras.*
 
 **Relações raciais:** Harmonia.
 
 **Governo:** ???
+
 **Líderes:** ???
 
 ## Arquitetura e estrutura urbana
