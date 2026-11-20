@@ -2,9 +2,9 @@
 ## Descrição geral
 **Tamanho:** Cidadela 
 
-**População:** 7450 
+**População:** 7.450 
 
-**Limite individual em PO:** 8000 
+**Limite individual em PO:** 8.000 
 
 O assentamento possui 29.800.000 PO dividido entre toda a população.
 
