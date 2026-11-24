@@ -1,4 +1,9 @@
 # Pasnata
+
+> A Cidadela murada e seus guardas recepcionam com confiança os visitantes, como quem guarda um oásis em meio ao semiárido seco, mas ao adentrar as muralhas, qual dos três portões você escolheu para conhecer o assentamento influenciam muito as primeiras impressões. O comercio se concentra no lado leste, sendo audível de longe. Alí você encontrará qualquer tipo de atendimento necessário, poderá vender ou comprar o que Magna proporcionar. O comércio de animais é típico aos moradores, mas a lista de possibilidades é longa e passa por muitos nichos. O chão de terra batida revela pouco interesse dos governantes em investimento público.
+
+???
+
 ## Descrição geral
 **Tamanho:** Cidadela 
 
@@ -7,11 +12,6 @@
 **Limite individual em PO:** 8.000 
 
 O assentamento possui 29.800.000 PO dividido entre toda a população.
-
-**Primeiras impressões:**
-A Cidadela murada e seus guardas recepcionam com confiança os visitantes, como quem guarda um oásis em meio ao semiárido seco, mas ao adentrar as muralhas, qual dos três portões você escolheu para conhecer o assentamento influenciam muito as primeiras impressões. O comercio se concentra no lado leste, sendo audível de longe. Alí você encontrará qualquer tipo de atendimento necessário, poderá vender ou comprar o que Magna proporcionar. O comércio de animais é típico aos moradores, mas a lista de possibilidades é longa e passa por muitos nichos. O chão de terra batida revela pouco interesse dos governantes em investimento público.
-
-???
 
 ## Defesa
 A cidadela é murada e possui guardas preparados, porém, boa parte dos seus esforços se concentram em combater os perigos internos de um assentamento movimentado e comercial.
